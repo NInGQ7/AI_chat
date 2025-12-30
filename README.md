@@ -106,11 +106,6 @@ touch .env
 
 .env 配置参考：
 
-code
-Ini
-download
-content_copy
-expand_less
 # 数据库连接 (注意 charset=utf8mb4 是必须的)
 DATABASE_URL=mysql+pymysql://root:你的密码@localhost:3306/ai_agent_db?charset=utf8mb4
 
