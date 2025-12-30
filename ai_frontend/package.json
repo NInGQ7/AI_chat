@@ -1,0 +1,25 @@
+{
+  "name": "ai-agent-frontend",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@heroicons/vue": "^2.1.1",
+    "axios": "^1.6.5",
+    "dompurify": "^3.0.8",
+    "marked": "^11.1.1",
+    "vue": "^3.4.15",
+    "vue-router": "^4.6.4"
+  },
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.19",
+    "@vitejs/plugin-vue": "^5.0.3",
+    "autoprefixer": "^10.4.17",
+    "postcss": "^8.4.33",
+    "tailwindcss": "^3.4.1",
+    "vite": "^5.0.11"
+  }
+}
